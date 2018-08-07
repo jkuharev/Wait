@@ -18,5 +18,8 @@ See Microsoft's documents on compiling C# programmes and compile
 wait.cs to wait.exe
 
 ## Usage
-wait <NumberOfSeconds>
-  
+
+`wait **NumberOfSeconds**`
+
+e.g. to wait 99 seconds:
+`wait 99`
